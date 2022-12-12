@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📺 Site: [https://przemkow.dev/](https://przemkow.dev/)
+- 📺 Site: [przemkow.dev](https://przemkow.dev/)
 - 📫 How to reach me:
   - 📱 [Telegram](https://t.me/przemkow)
   - 👨‍💻 [LinkedIn](https://www.linkedin.com/in/przemys%C5%82aw-fa%C5%82owski-67a821b3/)
