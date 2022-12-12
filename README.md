@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 📺 Site: [https://przemkow.dev/](https://przemkow.dev/)
+- 📫 How to reach me:
+  - 📱 [Telegram](https://t.me/przemkow)
+  - 👨‍💻 [LinkedIn](https://www.linkedin.com/in/przemys%C5%82aw-fa%C5%82owski-67a821b3/)
+
+
 <!--
 **przemkow/przemkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
